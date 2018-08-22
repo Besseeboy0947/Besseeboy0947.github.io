@@ -1,11 +1,11 @@
 # Site settings
 author: Ikaquan Bessee
-title: 
+title: TimewillTell
 header-img: img/home-bg.png
 email: ikaquanbessee@yahoo.com
 copyright_name: Ikaquan Bessee
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The happenings of Quan & Code 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Besseeboy0947
